@@ -30,7 +30,7 @@ int main() {
     }
     
     printf("Total: R\$ %.2f\n",t);
-    //teste
+    ///
  
     return 0;
 }
